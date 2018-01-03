@@ -1,0 +1,13 @@
+{
+  "id": "pipefy",
+  "name": "Pipefy",
+  "version": "1.0.0",
+  "description": "Pipefy",
+  "main": "index.js",
+  "author": "Leonardo Cavalcante <leonardo@kiddolabs.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.pipefy.com/",
+    "hasNotificationSound": true
+  }
+}
